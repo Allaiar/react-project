@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
-import { Route, Routes, Link } from "react-router-dom";
+import {Route, Link } from "react-router-dom";
 
 const Home = ({products}) => {
   return (
